@@ -29,3 +29,4 @@
 </p>
 - 📫 How to reach me ...
 ![](https://komarev.com/ghpvc/?username=rutvik-moradiya&color=green)
+![](https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS)
