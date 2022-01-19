@@ -10,6 +10,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
+<label>(https://github-readme-stats.vercel.app/api?rutvik-moradiya=CharalambosIoannou&show_icons=true&theme=tokyonight)</label><br>
+<label>(https://github-readme-stats.vercel.app/api/top-langs/?rutvik-moradiya=CharalambosIoannou&theme=tokyonight)</label><br>
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
