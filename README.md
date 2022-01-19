@@ -28,3 +28,4 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 - 📫 How to reach me ...
+![](https://komarev.com/ghpvc/?username=rutvik-moradiya&color=green)
