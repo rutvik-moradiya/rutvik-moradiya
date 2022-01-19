@@ -10,10 +10,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-<label>(![GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik-moradiya&show_icons=true&theme=tokyonight)
-)</label>
-<label>(![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik-moradiya&theme=tokyonight)
-)</label><br>
+<label>![GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik-moradiya&show_icons=true&theme=tokyonight)</label><br>
+<label>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik-moradiya&theme=tokyonight)</label><br>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white" />
