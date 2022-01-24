@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
- 
+   <img src="https://img.shields.io/badge/atlassian-5E5C5C?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/slack-5E5C5C?style=for-the-badge&logo=slack&logoColor=white" />
+
 </p>
 - 📫 How to reach me ...
 
