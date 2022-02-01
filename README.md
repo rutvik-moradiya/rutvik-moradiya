@@ -30,6 +30,5 @@
   <img src="https://img.shields.io/badge/slack-5E5C5C?style=for-the-badge&logo=slack&logoColor=white" />
 
 </p>
-- 📫 How to reach me ...
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
