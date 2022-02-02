@@ -31,4 +31,3 @@
 
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c553d90-01cb-4e8c-9a40-a088d1d3b379" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
