@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
    <img src="https://img.shields.io/badge/atlassian-5E5C5C?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-5E5C5C?style=for-the-badge&logo=slack&logoColor=white" />
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c553d90-01cb-4e8c-9a40-a088d1d3b379" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
+
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c553d90-01cb-4e8c-9a40-a088d1d3b379" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
