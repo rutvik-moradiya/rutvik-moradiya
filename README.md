@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
    <img src="https://img.shields.io/badge/atlassian-5E5C5C?style=for-the-badge&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-5E5C5C?style=for-the-badge&logo=slack&logoColor=white" />
-
+</p>
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
