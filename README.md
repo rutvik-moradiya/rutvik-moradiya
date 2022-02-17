@@ -5,7 +5,6 @@
 <!---
 - 👋 Hi, I’m @rutvik-moradiya
 - 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
 
 --->
 <label>![GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik-moradiya&show_icons=true&theme=tokyonight)</label><br>
