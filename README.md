@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 <!---
-- 👋 Hi, I’m @rutvik-
 - 👋 Hi, I’m @rutvik-moradiya
 
 --->
