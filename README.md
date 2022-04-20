@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rutvik-moradiya
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
-- - 👋 Hi, I’m @rutvik-moradiya
 <!---
+- - 👋 Hi, I’m @rutvik-moradiya
 --->
 <label>![GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik-moradiya&show_icons=true&theme=tokyonight)</label><br>
 <label>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik-moradiya&theme=tokyonight)</label><br>
