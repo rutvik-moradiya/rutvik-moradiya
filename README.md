@@ -26,3 +26,9 @@ www.rutvikmoradiya.ml
 
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
+ 
+ <div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+- LikedIn
+- Email
