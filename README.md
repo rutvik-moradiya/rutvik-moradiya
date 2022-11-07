@@ -1,6 +1,5 @@
  # 👋 Hi, I’m @rutvik-moradiya
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
@@ -20,14 +19,19 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+   <img src="https://img.shields.io/badge/react-js-5E5C5C?style=for-the-badge&react-js=json&logoColor=white" />
+   <img src="https://img.shields.io/badge/nord-js-777BB4?style=for-the-badge&logo=nord-js&logoColor=white" />
+   <img src="https://img.shields.io/badge/mongodb-FA7343?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/express-js-239120?style=for-the-badge&logo=express-js&logoColor=white" />
 
 </p>
 
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
  
-# <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+# <h3 align="start">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
-(https://www.linkedin.com/in/rutvik-moradiya-a6989312a/)
-www.rutvikmoradiya.ml
+- https://www.linkedin.com/in/rutvik-moradiya-a6989312a
+
+- www.rutvikmoradiya.ml
 
