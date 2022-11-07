@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @rutvik-moradiya
+ # 👋 Hi, I’m @rutvik-moradiya
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
 <label>![GitHub stats](https://github-readme-stats.vercel.app/api?username=rutvik-moradiya&show_icons=true&theme=tokyonight)</label><br>
-www.rutvikmoradiya.ml
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +26,8 @@ www.rutvikmoradiya.ml
 
  <img src= "https://komarev.com/ghpvc/?username=rutvik-moradiya&label=PROFILE+VIEWS">
  
-<h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+# <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 
-# LikedIn :
-- Email
+(https://www.linkedin.com/in/rutvik-moradiya-a6989312a/)
+www.rutvikmoradiya.ml
+
