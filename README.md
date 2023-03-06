@@ -33,5 +33,5 @@
 
 - https://www.linkedin.com/in/rutvik-moradiya-a6989312a
 
-- www.rutvikmoradiya.ml
+- www.rutvikmoradiya.com
 
